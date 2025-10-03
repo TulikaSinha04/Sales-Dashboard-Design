@@ -8,7 +8,7 @@ Power BI Desktop
 
 ## Dataset
 
-File: Superstore_Sales_BI.csv
+File: 'Superstore_Sales_BI.csv'
 
 ## Columns:
 
@@ -72,12 +72,10 @@ Use colors strategically to highlight top regions or categories.
 # Export
 File → Export → Export to PDF or take a screenshot of the dashboard.
 
-# Sample Insights
-.txt
 
 # Deliverables
-Task8_power BI.pdf – export of the dashboard.
-Dashoboard Summary.txt – key insights summarizing the data.
+1. 'Task8_power BI.pdf' – export of the dashboard.
+2. 'Dashoboard Summary.txt' – key insights summarizing the data.
 
 
 
