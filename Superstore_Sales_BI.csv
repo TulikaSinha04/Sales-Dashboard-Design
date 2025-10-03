@@ -1,0 +1,145 @@
+Order Date,Region,Category,Sales,Profit
+01-01-2024,West,Furniture,3372,785.67
+01-01-2024,West,Office Supplies,4054,809.44
+01-01-2024,West,Technology,5083,327.96
+01-01-2024,East,Furniture,3577,953.43
+01-01-2024,East,Office Supplies,6974,384.59
+01-01-2024,East,Technology,7389,2161.12
+01-01-2024,Central,Furniture,4060,387.55
+01-01-2024,Central,Office Supplies,6586,631.28
+01-01-2024,Central,Technology,7423,1172.73
+01-01-2024,South,Furniture,2817,345.95
+01-01-2024,South,Office Supplies,4928,606.32
+01-01-2024,South,Technology,8412,1191.06
+01-02-2024,West,Furniture,4509,450.53
+01-02-2024,West,Office Supplies,4359,778.34
+01-02-2024,West,Technology,5131,1035.88
+01-02-2024,East,Furniture,4295,397.85
+01-02-2024,East,Office Supplies,4674,1033.23
+01-02-2024,East,Technology,6322,1011.76
+01-02-2024,Central,Furniture,5042,295.45
+01-02-2024,Central,Office Supplies,4692,1301.23
+01-02-2024,Central,Technology,9283,1187.55
+01-02-2024,South,Furniture,4127,742.93
+01-02-2024,South,Office Supplies,4849,1417.83
+01-02-2024,South,Technology,9002,2194.54
+01-03-2024,West,Furniture,4169,300.68
+01-03-2024,West,Office Supplies,5138,508.64
+01-03-2024,West,Technology,6152,905.39
+01-03-2024,East,Furniture,4122,485.73
+01-03-2024,East,Office Supplies,5190,624.01
+01-03-2024,East,Technology,9196,1707.46
+01-03-2024,Central,Furniture,5833,400.36
+01-03-2024,Central,Office Supplies,6149,1824.54
+01-03-2024,Central,Technology,6822,350.52
+01-03-2024,South,Furniture,7304,1854.23
+01-03-2024,South,Office Supplies,9738,2364.56
+01-03-2024,South,Technology,11281,772.87
+01-04-2024,West,Furniture,2844,755.87
+01-04-2024,West,Office Supplies,4650,957.08
+01-04-2024,West,Technology,5703,728.53
+01-04-2024,East,Furniture,4348,570.87
+01-04-2024,East,Office Supplies,7218,1961.88
+01-04-2024,East,Technology,9962,1674.15
+01-04-2024,Central,Furniture,6019,1445.74
+01-04-2024,Central,Office Supplies,5837,1110.89
+01-04-2024,Central,Technology,8324,1504.01
+01-04-2024,South,Furniture,9014,1414.16
+01-04-2024,South,Office Supplies,8092,1040.54
+01-04-2024,South,Technology,8660,1534.06
+01-05-2024,West,Furniture,3326,507.53
+01-05-2024,West,Office Supplies,5367,1282.11
+01-05-2024,West,Technology,5054,1427.37
+01-05-2024,East,Furniture,3898,982.41
+01-05-2024,East,Office Supplies,7208,1808.62
+01-05-2024,East,Technology,7871,760.67
+01-05-2024,Central,Furniture,5527,1392.03
+01-05-2024,Central,Office Supplies,8452,2316.04
+01-05-2024,Central,Technology,6771,724.39
+01-05-2024,South,Furniture,5816,911.81
+01-05-2024,South,Office Supplies,8316,430.25
+01-05-2024,South,Technology,9748,1732.09
+01-06-2024,West,Furniture,2132,170.49
+01-06-2024,West,Office Supplies,4134,555.63
+01-06-2024,West,Technology,5700,1024.28
+01-06-2024,East,Furniture,4602,1038.92
+01-06-2024,East,Office Supplies,5854,1701.24
+01-06-2024,East,Technology,6693,755.94
+01-06-2024,Central,Furniture,2632,319.03
+01-06-2024,Central,Office Supplies,6337,375.29
+01-06-2024,Central,Technology,7815,491.33
+01-06-2024,South,Furniture,9597,1148.39
+01-06-2024,South,Office Supplies,6910,595.81
+01-06-2024,South,Technology,9226,1590.22
+01-07-2024,West,Furniture,3857,421.99
+01-07-2024,West,Office Supplies,4989,1157.72
+01-07-2024,West,Technology,7293,1519.73
+01-07-2024,East,Furniture,2468,453.97
+01-07-2024,East,Office Supplies,3761,226.39
+01-07-2024,East,Technology,5322,1052.28
+01-07-2024,Central,Furniture,2816,595
+01-07-2024,Central,Office Supplies,5899,552.1
+01-07-2024,Central,Technology,5391,1532.03
+01-07-2024,South,Furniture,7492,632.18
+01-07-2024,South,Office Supplies,5307,1492.19
+01-07-2024,South,Technology,7171,1931.4
+01-08-2024,West,Furniture,3249,826.24
+01-08-2024,West,Office Supplies,2616,493.9
+01-08-2024,West,Technology,2906,212.94
+01-08-2024,East,Furniture,3577,981.19
+01-08-2024,East,Office Supplies,4792,645.76
+01-08-2024,East,Technology,6670,915.81
+01-08-2024,Central,Furniture,4680,1271.89
+01-08-2024,Central,Office Supplies,5607,1373.54
+01-08-2024,Central,Technology,5228,472.65
+01-08-2024,South,Furniture,5142,1412.19
+01-08-2024,South,Office Supplies,6375,326.82
+01-08-2024,South,Technology,5766,520.1
+01-09-2024,West,Furniture,3637,774.65
+01-09-2024,West,Office Supplies,3883,411.86
+01-09-2024,West,Technology,3376,443.44
+01-09-2024,East,Furniture,3760,889.7
+01-09-2024,East,Office Supplies,5129,1099.67
+01-09-2024,East,Technology,5655,1086.2
+01-09-2024,Central,Furniture,3569,415.08
+01-09-2024,Central,Office Supplies,3891,431.89
+01-09-2024,Central,Technology,5676,1549.61
+01-09-2024,South,Furniture,4845,1006.72
+01-09-2024,South,Office Supplies,5474,1063.19
+01-09-2024,South,Technology,8792,1522.15
+01-10-2024,West,Furniture,2775,333.54
+01-10-2024,West,Office Supplies,2639,147.99
+01-10-2024,West,Technology,3163,901.82
+01-10-2024,East,Furniture,3406,982.57
+01-10-2024,East,Office Supplies,3776,203.39
+01-10-2024,East,Technology,5845,1648.76
+01-10-2024,Central,Furniture,4115,1197.07
+01-10-2024,Central,Office Supplies,4555,1199.11
+01-10-2024,Central,Technology,4414,1159.93
+01-10-2024,South,Furniture,2683,346.73
+01-10-2024,South,Office Supplies,5562,1579.82
+01-10-2024,South,Technology,4296,962.34
+01-11-2024,West,Furniture,1932,393.65
+01-11-2024,West,Office Supplies,3605,1072.54
+01-11-2024,West,Technology,4529,1219.86
+01-11-2024,East,Furniture,2244,527.77
+01-11-2024,East,Office Supplies,5253,734.75
+01-11-2024,East,Technology,6476,799.13
+01-11-2024,Central,Furniture,4292,1144.97
+01-11-2024,Central,Office Supplies,5411,1505.94
+01-11-2024,Central,Technology,6532,1630.22
+01-11-2024,South,Furniture,8765,1862.48
+01-11-2024,South,Office Supplies,6758,1841.56
+01-11-2024,South,Technology,7499,1008.61
+01-12-2024,West,Furniture,2178,423.77
+01-12-2024,West,Office Supplies,3556,209.75
+01-12-2024,West,Technology,7672,933.19
+01-12-2024,East,Furniture,1823,360.42
+01-12-2024,East,Office Supplies,3969,324.53
+01-12-2024,East,Technology,7099,1281.8
+01-12-2024,Central,Furniture,3399,699.25
+01-12-2024,Central,Office Supplies,6106,435.58
+01-12-2024,Central,Technology,6371,1179.65
+01-12-2024,South,Furniture,4068,851.67
+01-12-2024,South,Office Supplies,2932,729.47
+01-12-2024,South,Technology,7347,864.8

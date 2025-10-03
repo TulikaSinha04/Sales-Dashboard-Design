@@ -1,0 +1,28 @@
+Sales Dashboard Summary
+
+This dashboard provides a quick overview of Superstore sales performance over time, across regions and product categories. It allows interactive filtering by Region and Category using slicers and highlights top-performing regions. Key visualizations include:
+
+Sales Trend Over Time – Line chart showing total sales month-over-month, highlighting seasonal peaks and growth trends.
+
+Sales by Region – Bar chart showing sales contribution of each region, with conditional formatting for top performers.
+
+Sales by Category – Donut chart showing sales distribution across product categories.
+
+Interactive Slicers – Enables dynamic filtering by Region and Category.
+
+The dashboard provides actionable insights for decision-making, such as identifying high-performing regions, top-selling categories, and months with peak sales.
+
+Key Insights (Sample)
+
+Highest Monthly Sales:
+March 2024 recorded the highest sales of $81,094, showing strong seasonal demand.
+
+Top Region by Sales:
+South Region is the highest revenue contributor, generating $244,111 in total sales.
+
+Top Category by Sales:
+Technology products lead sales, contributing 41.2% of total revenue.
+
+Overall Profit Margin:
+   The profit margin across all sales is 17.4%, indicating healthy profitability.
+
